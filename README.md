@@ -13,5 +13,4 @@
   <img src="ImagensDoSiteOriginal/Tabela Brasilerão - Modelo 1.png" width="450">
   <img src="ImagensDoSiteOriginal/Tabela Brasilerão - Modelo 2.png" width="450">
 </div>
-
 <img src="ImagensDoSiteOriginal/soccer-mochi.gif"></div>
